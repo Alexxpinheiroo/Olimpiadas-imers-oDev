@@ -14,26 +14,6 @@ Este projeto foi desenvolvido durante a Imersão Dev 2024 com o Google Gemini, c
 - **CSS3**: Estilização da página, utilizando a fonte `Chakra Petch` do Google Fonts e implementando responsividade.
 - **JavaScript**: Implementação da lógica de pesquisa e manipulação dinâmica dos dados exibidos na interface.
 
-## Como Utilizar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Olimpiadas-imers-oDevOlimpiadas-imers-oDev
-.git
-   ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd nome-do-repositorio
-   ```
-3. Abra o arquivo `index.html` no navegador de sua preferência.
-
-## Estrutura do Projeto
-
-- **index.html**: Arquivo principal que contém a estrutura HTML.
-- **style.css**: Arquivo de estilos responsável pelo design da página.
-- **dados.js**: Contém os dados dos atletas (nome, descrição, e link para mais informações).
-- **app.js**: Contém a lógica da pesquisa e manipulação dos dados.
-
 ## Prévia do Projeto
 
 Uma interface simples e direta para pesquisar atletas brasileiros, com informações sobre suas conquistas e links para maiores detalhes.
